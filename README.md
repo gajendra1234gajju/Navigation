@@ -1,6 +1,6 @@
-# Mortar architect map demo
+#navigation map demo
 
-Demo project that uses Mortar and Mortar architect libraries, along with Dagger2.
+
 
 ## Showcase
 
@@ -9,12 +9,6 @@ Demo project that uses Mortar and Mortar architect libraries, along with Dagger2
  * `MapPresenter` that manages a map view as a standalone and re-usable container
  * `DrawerLayout` that uses two view presenter
 
-## Libraries
-
- * Mortar: [https://github.com/square/mortar](https://github.com/square/mortar)
- * Mortar Architect: [https://github.com/lukaspili/Mortar-architect](https://github.com/lukaspili/Mortar-architect)
- * Dagger2: [https://github.com/google/dagger](https://github.com/google/dagger)
- * Auto Dagger2: [https://github.com/lukaspili/Auto-Dagger2](https://github.com/lukaspili/Auto-Dagger2)
 
 
 ## Map API key
@@ -24,9 +18,6 @@ See the map view doc on the subject.
 
 ## Author
 
-- Lukasz Piliszczuk ([@lukaspili](https://twitter.com/lukaspili))
+-gajendra kumar
 
 
-## License
-
-Mortar Architect is released under the MIT license. See the LICENSE file for details.
